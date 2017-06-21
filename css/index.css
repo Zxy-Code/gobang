@@ -1,0 +1,24 @@
+#dakuai{
+	width:360px;
+	height: 360px;
+	/*border:red;*/
+	padding: 2px;
+	border: 1px solid black;
+	background: #dfdfdf;
+	box-shadow: 0 0 25px #333;
+	/*margin: 0 auto;*/
+	box-shadow: 1px 1px 34px #666;
+}
+.xiaokuai{
+	margin-top: -1px;
+	margin-left: -1px;
+	margin:2px;
+	float: left;
+	width:30px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	/*background: red;*/
+	border:1px solid black;
+	/*border-radius: 50%;*/
+}
